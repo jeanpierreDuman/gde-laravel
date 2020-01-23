@@ -1,0 +1,25 @@
+# run git ftp command
+sh git-ftp
+
+# ftp git connexion : url
+git config git-ftp.url ftp://ftpupload.net/htdocs
+
+# ftp git connexion : user
+git config git-ftp.user frsiv_24823543
+
+# ftp git connexion : password
+git config git-ftp.password bebeto95200
+
+# database host
+sql107.freesite.vip
+
+# database name
+frsiv_24820787_mydb
+
+# database user
+frsiv_24820787
+
+# database password
+bebeto95200
+
+# test
